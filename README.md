@@ -1,4 +1,4 @@
-#Aspiring research scientist
+### Aspiring research scientist
 
 ### Education
 Electrical & Electronics Engineering, BS
