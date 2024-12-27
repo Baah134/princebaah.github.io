@@ -16,3 +16,14 @@ Designed PCB schematic and 3D files to ensure functionality of robot
 
 Investiagted floodfill for maze mapping and navigation and PID for control and steering of mice 
 
+Click below to see PCB Design Schematics
+[https://github.com/Baah134/Micromouse-Project] 
+
+### Potato Disease Classification
+Built and trained a CNN to detect potato blight diseases in plants
+
+Achieved 98% test accuracy on training dataset and 97% on test data
+
+
+
+
