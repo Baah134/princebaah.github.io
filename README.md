@@ -6,7 +6,7 @@ I’m eager to collaborate on innovative solutions that leverage technology to s
 Electrical & Electronics Engineering, BS    
 Ashesi University 
 
- #### SKILLS: Python, CAD, Tensorflow 
+ #### SKILLS: Python, Tensorflow 
 
 ### PROJECTS
 
