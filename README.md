@@ -5,7 +5,7 @@ I’m eager to collaborate on innovative solutions that leverage technology to s
 
 ### EDUCATION
 Electrical & Electronics Engineering, BS
-Ashesi University
+Ashesi University 
  
 
 ### PROJECTS
