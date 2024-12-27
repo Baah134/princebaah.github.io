@@ -3,13 +3,13 @@ Hi there! 👋 I'm a sophomore majoring in Electrical and Electronics Engineerin
 
 I’m eager to collaborate on innovative solutions that leverage technology to solve real-world challenges. Check out my projects below, and feel free to reach out
 
-### Education
+### EDUCATION
 Electrical & Electronics Engineering, BS
 Ashesi University
 
 
-### Projects
-Micromouse Project
+### PROJECTS
+### Micromouse Project
 Designed autonomous robotic mice to navigate mazes
 
 Designed PCB schematic and 3D files to ensure functionality of robot
