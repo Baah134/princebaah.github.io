@@ -1,5 +1,5 @@
 ### Aspiring research scientist
-Hi there! 👋 I'm a sophomore majoring in Electrical and Electronics Engineering, passionate about deep learning and its transformative potential in research and industry. My journey into machine learning has been both exciting and hands-on, with a growing portfolio of projects that demonstrate my skills in building deep learning concepts like CNNS, backpropagation.
+Hi there! I'm a sophomore majoring in Electrical and Electronics Engineering, passionate about deep learning and its transformative potential in research and industry. My journey into machine learning has been both exciting and hands-on, with a growing portfolio of projects that demonstrate my skills in building deep learning concepts like CNNS, backpropagation.
 
 I’m eager to collaborate on innovative solutions that leverage technology to solve real-world challenges. Check out my projects below, and feel free to reach out
 
