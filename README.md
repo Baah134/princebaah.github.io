@@ -6,7 +6,7 @@ I’m eager to collaborate on innovative solutions that leverage technology to s
 ### EDUCATION
 Electrical & Electronics Engineering, BS
 Ashesi University
-
+ 
 
 ### PROJECTS
 ### Micromouse Project 
