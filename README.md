@@ -5,12 +5,16 @@ I’m eager to collaborate on innovative solutions that leverage technology to s
 ### EDUCATION
 Electrical & Electronics Engineering, BS    
 Ashesi University 
- 
+
+ ### SKILLS: Python, CAD, Tensorflow, Keras
 
 ### PROJECTS
-## Micromouse Project  Designed autonomous robotic mice to navigate mazes. 
-Designed PCB schematic and 3D files to ensure functionality of robot.
-Investiagted floodfill for maze mapping and navigation and PID for control and steering of mice  
+## Micromouse Project  
+-Designed autonomous robotic mice to navigate mazes. 
+
+-Designed PCB schematic and 3D files to ensure functionality of robot.
+
+-Investiagted floodfill for maze mapping and navigation and PID for control and steering of mice  
 
 [Click to view PCB Design Schematics](https://github.com/Baah134/Micromouse-Project)
 
@@ -21,21 +25,21 @@ Built artificial and convolutional models on image dataset to evaluate which net
 
 
 ## Potato Disease Classification
-Built and trained a CNN to detect potato blight diseases in plants
-Achieved 98% test accuracy on training dataset and 97% on test data
+-Built and trained a CNN to detect potato blight diseases in plants
+-Achieved 98% test accuracy on training dataset and 97% on test data
 
 [Click to view notebook](https://github.com/Baah134/Baah134/tree/main/Potato%20Disease%20Classification)
 
 ### Generative Adversarial Network
-Developed a GAN to create synthetic fashion clothes using data from tensorflow
-Seamlessly applied backpropagation techniques and object-oriented programming to build and train discriminator models
+-Developed a GAN to create synthetic fashion clothes using data from tensorflow
+-Seamlessly applied backpropagation techniques and object-oriented programming to build and train discriminator models
 
 [Click to view notebook](https://github.com/Baah134/Baah134/tree/main/Generative%20Adversarial%20Network)
 
 ## Audio Classification Model
-Created an audio calssification model to detect capuchinbird voices
-Converted audio signals into spectrogram data to allow training
-Built Convolutional Neural Network to detect various spectrograms, achieving 90% accuracy
+-Created an audio calssification model to detect capuchinbird voices
+-Converted audio signals into spectrogram data to allow training
+-Built Convolutional Neural Network to detect various spectrograms, achieving 90% accuracy
 
 [Click to view notebook](https://github.com/Baah134/Baah134/tree/main/Audio%20Classification)
 
