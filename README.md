@@ -21,6 +21,11 @@ Built and trained a CNN to detect potato blight diseases in plants
 
 Achieved 98% test accuracy on training dataset and 97% on test data
 
+### Generative Adversarial Network
+Developed a GAN to create synthetic fashion clothes using data from tensorflow
+
+Seamlessly applied backpropagation techniques and object-oriented programming to build and train discriminator models
+
 
 
 
