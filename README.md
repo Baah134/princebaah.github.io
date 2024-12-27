@@ -9,7 +9,7 @@ Ashesi University
 
 
 ### PROJECTS
-### Micromouse Project
+### Micromouse Project 
 Designed autonomous robotic mice to navigate mazes
 
 Designed PCB schematic and 3D files to ensure functionality of robot
