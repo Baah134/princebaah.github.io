@@ -8,7 +8,7 @@ Ashesi University
  
 
 ### PROJECTS
-### Micromouse Project 
+## Micromouse Project 
 Designed autonomous robotic mice to navigate mazes. 
 
 Designed PCB schematic and 3D files to ensure functionality of robot.
@@ -17,13 +17,13 @@ Investiagted floodfill for maze mapping and navigation and PID for control and s
 
 [Click to view PCB Design Schematics](https://github.com/Baah134/Micromouse-Project)
 
-### Comparative study of Artifical and Convolutional Neural Networks
+## Comparative study of Artifical and Convolutional Neural Networks
 Built artificial and convolutional models on image dataset to evaluate which network had higher accuracy
 
 [Click to view notebook](https://github.com/Baah134/Baah134/tree/main/Comparative%20Analysis%20of%20CNN%20and%20ANN)
 
 
-### Potato Disease Classification
+## Potato Disease Classification
 Built and trained a CNN to detect potato blight diseases in plants
 
 Achieved 98% test accuracy on training dataset and 97% on test data
@@ -37,7 +37,7 @@ Seamlessly applied backpropagation techniques and object-oriented programming to
 
 [Click to view notebook](https://github.com/Baah134/Baah134/tree/main/Generative%20Adversarial%20Network)
 
-### Audio Classification Model
+## Audio Classification Model
 Created an audio calssification model to detect capuchinbird voices
 
 Converted audio signals into spectrogram data to allow training
