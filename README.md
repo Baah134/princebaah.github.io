@@ -9,6 +9,7 @@ Ashesi University
  ### SKILLS: Python, CAD, Tensorflow 
 
 ### PROJECTS
+
 ## Micromouse Project  
 -Designed autonomous robotic mice to navigate mazes. 
 
