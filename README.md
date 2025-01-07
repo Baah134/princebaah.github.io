@@ -32,8 +32,7 @@ Built artificial and convolutional models on image dataset to evaluate which net
 [Click to view notebook](https://github.com/Baah134/Baah134/tree/main/Potato%20Disease%20Classification)
 
 ### Generative Adversarial Network
--Developed a GAN to create synthetic fashion clothes using data from tensorflow
--Seamlessly applied backpropagation techniques and object-oriented programming to build and train discriminator models
+This project explores the implementation of a Generative Adversarial Network (GAN) using the Fashion MNIST dataset. The model features a generator that learns to produce realistic images and a discriminator that evaluates their authenticity. This work demonstrates the potential of GANs in generating synthetic yet convincing data, with applications ranging from image synthesis to data augmentation.
 
 [Click to view notebook](https://github.com/Baah134/Baah134/tree/main/Generative%20Adversarial%20Network)
 
