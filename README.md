@@ -11,11 +11,7 @@ Ashesi University
 ### PROJECTS
 
 ## Micromouse Project  
--Designed autonomous robotic mice to navigate mazes. 
-
--Designed PCB schematic and 3D files to ensure functionality of robot.
-
--Investiagted floodfill for maze mapping and navigation and PID for control and steering of mice  
+Participated in the design and development of autonomous robotic mice capable of navigating mazes. Key contributions included designing PCB schematics and 3D files to ensure functionality, investigating the floodfill algorithm for efficient maze mapping and navigation, and learning PID control for precise steering and movement. This project combined aengineering principles and programming to design a crobotic system.
 
 [Click to view PCB Design Schematics](https://github.com/Baah134/Micromouse-Project) 
 
