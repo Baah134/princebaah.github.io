@@ -38,9 +38,7 @@ Built artificial and convolutional models on image dataset to evaluate which net
 [Click to view notebook](https://github.com/Baah134/Baah134/tree/main/Generative%20Adversarial%20Network)
 
 ## Audio Classification Model
--Created an audio calssification model to detect capuchinbird voices
--Converted audio signals into spectrogram data to allow training
--Built Convolutional Neural Network to detect various spectrograms, achieving 90% accuracy
+This project involves the development of an audio classification model designed to differentiate Capuchinbird calls from other ambient  sounds. Utilizing advanced deep learning techniques and TensorFlow, the model processes raw audio signals, transforming them into meaningful classifications. This work highlights the potential of machine learning in bioacoustics, particularly for environmental monitoring and wildlife research.
 
 [Click to view notebook](https://github.com/Baah134/Baah134/tree/main/Audio%20Classification)
 
