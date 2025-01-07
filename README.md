@@ -20,7 +20,7 @@ Ashesi University
 [Click to view PCB Design Schematics](https://github.com/Baah134/Micromouse-Project)
 
 ## Comparative study of Artifical and Convolutional Neural Networks
-Built artificial and convolutional models on image dataset to evaluate which network had higher accuracy
+This project investigates the performance and capabilities of Convolutional Neural Networks (CNNs) and Artificial Neural Networks (ANNs) in solving a classification task. By comparing the architectures, training processes, and results, the analysis highlights the advantages of CNNs in processing structured data like images. This work provides insights into selecting the appropriate model architecture for specific applications.
 
 [Click to view notebook](https://github.com/Baah134/Baah134/tree/main/Comparative%20Analysis%20of%20CNN%20and%20ANN)
 
