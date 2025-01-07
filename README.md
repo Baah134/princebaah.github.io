@@ -26,8 +26,7 @@ This project investigates the performance and capabilities of Convolutional Neur
 
 
 ## Potato Disease Classification
--Built and trained a CNN to detect potato blight diseases in plants
--Achieved 98% test accuracy on training dataset and 97% on test data
+This project utilizes a Convolutional Neural Network (CNN) to classify potato blight diseases with high accuracy. By analyzing images of potato leaves, the model identifies symptoms of blight, demonstrating the potential of deep learning in agricultural diagnostics. This application highlights how AI can support sustainable farming by enabling early disease detection and prevention.
 
 [Click to view notebook](https://github.com/Baah134/Baah134/tree/main/Potato%20Disease%20Classification)
 
