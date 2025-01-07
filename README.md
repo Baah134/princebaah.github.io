@@ -38,7 +38,8 @@ This project explores the implementation of a Generative Adversarial Network (GA
 ## Audio Classification Model
 This project involves the development of an audio classification model designed to differentiate Capuchinbird calls from other ambient  sounds. Utilizing advanced deep learning techniques and TensorFlow, the model processes raw audio signals, transforming them into meaningful classifications. This work highlights the potential of machine learning in bioacoustics, particularly for environmental monitoring and wildlife research.
 
-[Click to view notebook](https://github.com/Baah134/Baah134/tree/main/Audio%20Classification)
+[Click to view notebook](https://github.com/Baah134/Baah134/tree/main/Audio%20Classification) Check out the full article [here](https://open.substack.com/pub/princebaah/p/audio-classification-using-deep-learning?r=4ckmh5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) to dive deeper into the details
+
 
 
 
